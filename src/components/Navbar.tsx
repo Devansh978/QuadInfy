@@ -32,7 +32,7 @@ export default function Navbar(): JSX.Element {
     { name: "Process", href: "#process" },
     { name: "Portfolio", href: "#portfolio" },
     { name: "About", href: "#about" },
-    // { name: "Pricing", href: "#pricing" },
+    { name: "Careers", href: "#careers" },
     { name: "Contact", href: "#contact" },
   ];
 

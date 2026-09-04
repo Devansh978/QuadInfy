@@ -4,7 +4,7 @@ import Services from './components/Services';
 import Process from './components/Process';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
-import Pricing from './components/Pricing';
+import Careers from './components/Careers';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -17,7 +17,7 @@ function App() {
       <Process />
       <Portfolio />
       <About />
-      {/* <Pricing /> */}
+      <Careers />
       <Contact />
       <Footer />
     </div>
